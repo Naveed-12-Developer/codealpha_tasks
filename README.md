@@ -18,4 +18,4 @@ A professional system for managing event sign-ups.
 To run these projects locally, follow these steps:
 1. Clone the repository:
    ```bash
-   git clone [https://github.com/Naveed-12-Developer/codealpha_tasks/tree/main/CodeAlpha_Event_Registration_System](https://github.com/YOUR_USERNAME/CodeAlpha_Tasks.git)
+   git clone [https://github.com/Naveed-12-Developer/codealpha_tasks/tree/main/CodeAlpha_Event_Registration_System](https://github.com/Naveed-12-Developer/codealpha_tasks/tree/main/CodeAlpha_URL_Shortener)
